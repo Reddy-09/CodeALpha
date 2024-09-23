@@ -1,1 +1,2 @@
-# CodeALpha
+# CODEALPHA
+Codalpha | Data Science | Internship
